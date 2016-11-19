@@ -11,7 +11,7 @@ A simple PhoneGap Build application.
 </description>
 
 <author href="https://example.com" email="you@example.com">
-My Name
+Your Name
 </author>
 
 <preference name="phonegap-version" value="3.3.0" />
